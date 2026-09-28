@@ -82,11 +82,6 @@ export default function Footer() {
                   Contact us
                 </Link>
               </li>
-              <li className="pt-2 border-t border-slate-800">
-                <Link href="/pricing" className="text-blue-400 hover:underline">
-                  Price Estimator
-                </Link>
-              </li>
             </ul>
           </div>
 

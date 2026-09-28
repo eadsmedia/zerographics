@@ -13,7 +13,6 @@ import {
   Check, 
   Sparkles, 
   ArrowRight, 
-  Calculator,
   Search,
   Cpu
 } from "lucide-react";
@@ -200,13 +199,6 @@ export default function ServicesPage() {
                     <span>Order on WhatsApp</span>
                   </a>
 
-                  <Link
-                    href="/pricing"
-                    className="py-2.5 px-4 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-bold transition-colors flex items-center gap-1.5"
-                  >
-                    <Calculator className="w-3.5 h-3.5 text-blue-600" />
-                    <span>Estimate Price</span>
-                  </Link>
 
                   {service.id === "envelope-print" && (
                     <Link

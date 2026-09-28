@@ -7,7 +7,6 @@ import {
   Sparkles, 
   ArrowRight, 
   MessageSquare, 
-  Calculator, 
   CheckCircle2,
   Award,
   Zap,
@@ -98,14 +97,6 @@ export default function Hero() {
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
               </Link>
 
-              <Link
-                href="/pricing"
-                className="w-full sm:w-auto px-5 py-3.5 rounded-xl font-bold text-sm text-slate-800 bg-white/90 hover:bg-white border border-slate-300 shadow-sm transition-all flex items-center justify-center gap-2"
-                id="hero-estimator-btn"
-              >
-                <Calculator className="w-4 h-4 text-blue-600" />
-                <span>Instant Price Estimator</span>
-              </Link>
 
               <a
                 href="https://wa.me/917718101450?text=Hello%20Zero%20Graphics!%20I%20would%20like%20to%20order%20printing."

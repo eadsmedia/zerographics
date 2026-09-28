@@ -369,13 +369,6 @@ export default function ServicesSection() {
                       <span>Order on WhatsApp</span>
                     </a>
 
-                    <a
-                      href="#calculator"
-                      className="p-2.5 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 hover:text-cyan-400 transition-colors"
-                      title="Calculate Price"
-                    >
-                      <ArrowRight className="w-4 h-4" />
-                    </a>
                   </div>
                 </div>
               </div>

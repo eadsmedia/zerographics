@@ -30,7 +30,6 @@ Modern multi-page website built with **Next.js (App Router)**, **Tailwind CSS**,
   - `Contact Us (/contact)` &ndash; 2 physical branches (Thermal More &amp; Bus Stand), live Facebook page feed embed, customer care &amp; departmental WhatsApp desks.
   - `Ishanee Envelopes (/ishanee-envelopes)` &ndash; Dedicated catalog for Ishanee Brand celebratory covers.
   - `Machinery (/machinery)` &ndash; Technical profiles of Konica 512i, Epson Eco-Solvent, and Xerox presses.
-  - `Price Calculator (/pricing)` &ndash; Interactive quotation calculator with WhatsApp export.
 
 ---
 
